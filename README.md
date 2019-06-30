@@ -1,2 +1,4 @@
 # sentiment-analysis-nlp
-keras model to analyse sentiment of given movie review
+This keras model to analyse sentiment of given movie review
+
+The dataset is collected from https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
